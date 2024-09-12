@@ -1,0 +1,4 @@
+First hum install kre gy firebase ko "npm install firebase
+phir hum onko apni react k sath configure kre gy 
+phir hum realtime database k sath configure kre gy oska link paste kre gy realtime database ka path copy ke gy
+jo bhi function use kre gy oska path paste kre gy
